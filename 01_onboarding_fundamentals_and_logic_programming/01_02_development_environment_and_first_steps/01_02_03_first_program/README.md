@@ -2,9 +2,7 @@
 
 - ## 01.02 - DEVELOPMENT ENVIRONMENT AND FIRST STEPS
 
-- ### 01.02.01 - DEVELOPMENT ENVIRONMENT AND FIRST STEPS
-
-- #### 01.02.03 - First Program
+- ### 01.02.03 - First Program
 
     This module and class, bring how to write and run the your own first program in [Python](https://www.python.org/).
     Is or was possible to learn, the basic, like, how to:
